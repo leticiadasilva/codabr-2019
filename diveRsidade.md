@@ -2,7 +2,9 @@
 
 ### Por Carolina Moreno
 
-> Link da apresentação: https://drive.google.com/file/d/19YuvY0TIJUHyC6GbOWgm3D0PzJYhwzpe/view  
+> Link das apresentações: https://drive.google.com/file/d/19YuvY0TIJUHyC6GbOWgm3D0PzJYhwzpe/view  
+
+>https://docs.google.com/presentation/d/e/2PACX-1vRSfGEce2Jr8yeBaMF6Sa4Qo7yatTgCdLmVcgEWr-ed44oa_FaH_euqJPM2lWvAajf7KCzfcJsCeB4k/pub?start=true&loop=false&delayms=10000&slide=id.g6b91bc8a38_0_31
 
 ![](https://i.imgur.com/ElVqnwH.jpg)  
 
