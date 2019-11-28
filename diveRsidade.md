@@ -65,7 +65,7 @@
 
 >matéria: https://www.estadao.com.br/infograficos/cidades,sem-lei-que-cite-quantidades-policia-da-destinos-diversos-a-flagrados-com-droga,977293
 
-![](https://i.imgur.com/cDwtxAX.jpg)  
+![](https://i.imgur.com/cDwtxAX.jpg)    
 
 ![](https://i.imgur.com/2GRm2JX.jpg)
 
