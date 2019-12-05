@@ -35,7 +35,23 @@
 
 
 - Código Aberto e a Open Source Iniciative
-    - 
+    - 1998 – Criação do termo Código Aberto (Open Source Software) por Christine Peterson.
+    - Criação da OSI como um movimento dissidente do Projeto GNU.
+
+- Definição de Código Aberto
+    - **1-** Distribuição livre.
+    - **2-** Código fonte.
+    - **3-** Trabalhos derivados.
+    - **4-** Integridade do autor do código fonte.
+    - **5-** Não discriminação contra pessoas ou grupos.
+    - **6-** Não discriminação contra áreas de atuação.
+    - **7-** Distribuição da Licença.
+    - **8-** Licença não específica a um produto.
+    - **9-** Licença não restrinja outros programas.
+    - **10-** Licença neutra em relação a tecnologia.
+
+
+
 
 
 
